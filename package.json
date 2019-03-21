@@ -1,0 +1,118 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-contacts@^2.2.5",
+        "scope": null,
+        "escapedName": "react-native-contacts",
+        "name": "react-native-contacts",
+        "rawSpec": "^2.2.5",
+        "spec": ">=2.2.5 <3.0.0",
+        "type": "range"
+      },
+      "C:\\Users\\kavdelarou\\Documents\\mynet-mobile\\mynet"
+    ]
+  ],
+  "_from": "react-native-contacts@^2.2.5",
+  "_hasShrinkwrap": false,
+  "_id": "react-native-contacts@2.2.5",
+  "_location": "/react-native-contacts",
+  "_nodeVersion": "11.2.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-native-contacts_2.2.5_1544563910108_0.949928447600388"
+  },
+  "_npmUser": {
+    "name": "morenoh149",
+    "email": "morenoh149@gmail.com"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-contacts@^2.2.5",
+    "scope": null,
+    "escapedName": "react-native-contacts",
+    "name": "react-native-contacts",
+    "rawSpec": "^2.2.5",
+    "spec": ">=2.2.5 <3.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-contacts/-/react-native-contacts-2.2.5.tgz",
+  "_shasum": "5f7ff7b0310a095753ef0491d6e9453dcfc17ff8",
+  "_shrinkwrap": null,
+  "_spec": "react-native-contacts@^2.2.5",
+  "_where": "C:\\Users\\kavdelarou\\Documents\\mynet-mobile\\mynet",
+  "author": {
+    "name": "rt2zz",
+    "email": "zack@root-two.com"
+  },
+  "bugs": {
+    "url": "https://github.com/rt2zz/react-native-contacts/issues"
+  },
+  "contributors": [
+    {
+      "name": "Harry Moreno",
+      "email": "morenoh149@gmail.com",
+      "url": "http://harrymoreno.com/"
+    },
+    {
+      "name": "Nick Pomfret"
+    }
+  ],
+  "dependencies": {},
+  "description": "React Native Contacts (android & ios)",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-yorPL9PS/g3lKIczZZ18s+LI2+tPHfudsAwuEKA63VB0YteBb5Rz2NnMmBzvI3bRdvNgzzXoCPwxOzAHL0tt1g==",
+    "shasum": "5f7ff7b0310a095753ef0491d6e9453dcfc17ff8",
+    "tarball": "https://registry.npmjs.org/react-native-contacts/-/react-native-contacts-2.2.5.tgz",
+    "fileCount": 19,
+    "unpackedSize": 176918,
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJcECzGCRA9TVsSAnZWagAAbAcP/juQ4Glt/MWzltfW33Oq\nCD61nxPHtyoAFcJrVqjAEagF4FeUmMT5ZesVNMjPpSHkdhnQ0UlaRqK96t6D\nVDcS+GV6rCRhc0wRYwdawxzJ7bujsuixBRTxnsvII+NMSYrdpcesi9zVcEOT\nZdljUZGuY9Z2/8BzQmPGXJUrv6MfPn62AiEUURt7eTnKeHRlQGrnSykBAlVD\nEwLz9VFniLdjXHUKvUuq0pux0Qd9dZh23bF8qItbzME7UovnmlHTUHis9/mC\noYVjoWnIDH4xsqJiWhHcOIPTRFLTKgaLWfPwklt2iJsNrWFLlN+NQC6/8mpL\nkgWHULj9huUsWDtCpH/4nlY4kvWZlIG5dzZpUnVCQgE0D5EzA70LzYfTcum8\ntqXP43u9gtLbi8ZgU/3WQD4H1iEwBHgMEI+wKj/47WL86yHlrIvwFKGopk0a\n0Cn5QrEoV9MsyLMPkScFKFz9zgjUd1YNtNnypkZRow0NVPUXx8BAR+tVvIhS\nUaXhvSLWz43pY128Ix3j/dNBKsFQkDbEp4p8F2B/JWjjgSra9uMXGZlmiqza\nlHLHOIlPVhb9soXlvxYZ2lWcmK0FdeTaTWrXC8Oyu/zDoxM8cKbxwdZiEGxl\nD6Si+ALj7p1tpaDKdcc+y2OWERbqrVl6oP/+h30eJ7RGqV9PGCz+FtaMsPuZ\nxua7\r\n=zVqp\r\n-----END PGP SIGNATURE-----\r\n"
+  },
+  "gitHead": "6e06ab9e0a29b5882b75208b55c0f0ce1d770d7f",
+  "homepage": "https://github.com/rt2zz/react-native-contacts",
+  "keywords": [
+    "react-native",
+    "react",
+    "react-component",
+    "addressbook",
+    "contacts",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "morenoh149",
+      "email": "morenoh149@gmail.com"
+    },
+    {
+      "name": "npomfret",
+      "email": "nick-npm@snowmonkey.co.uk"
+    },
+    {
+      "name": "rt2zz",
+      "email": "ztstory@gmail.com"
+    }
+  ],
+  "name": "react-native-contacts",
+  "nativePackage": true,
+  "optionalDependencies": {},
+  "readme": "# React Native Contacts\nTo contribute read [CONTRIBUTING.md](CONTRIBUTING.md).\n\nAsk questions on [stackoverflow](https://stackoverflow.com/questions/tagged/react-native-contacts) not the issue tracker.\n\n## Usage\n`getAll` is a database intensive process, and can take a long time to complete depending on the size of the contacts list. Because of this, it is recommended you access the `getAll` method before it is needed, and cache the results for future use.\n\n```es\nimport Contacts from 'react-native-contacts';\n\nContacts.getAll((err, contacts) => {\n  if (err) throw err;\n\n  // contacts returned\n  console.log(contacts)\n})\n```\n\n`getContactMatchingString` is meant to alleviate the amount of time it takes to get all contacts, by filtering on the native side based on a string.\n\n```es\nimport Contacts from 'react-native-contacts';\n\nContacts.getContactsMatchingString(\"filter\", (err, contacts) => {\n  if (err) throw err;\n\n  // contacts matching \"filter\"\n  console.log(contacts)\n})\n```\n## Installation\nTo use this module you have to install it and configure the permissions. Please read this entire section.\n\n### Automatic\nwith npm\n\n    npm install react-native-contacts --save\n_the `--save` is necessary for [automatic linking](https://facebook.github.io/react-native/docs/linking-libraries-ios.html#automatic-linking)_\n\nwith yarn\n\n    yarn add react-native-contacts\nand then do\n\n    react-native link\nIf you get an error about\n`import Contacts from 'react-native-contacts'; is undefined.` try manual linking\nbelow.  \n\nAlso, supporting older versions of Android (API level <= 22) requires extra permissions; see the [Android permissions](#android-1) section.\n\n### Manual\n#### iOS\n\n1. In XCode, in the project navigator, right click Libraries `Add Files to [your project's name]`\n1. add `./node_modules/react-native-contacts/ios/RCTContacts.xcodeproj`\n1. In the XCode project navigator, select your project,\nselect the `Build Phases` tab and in the `Link Binary With Libraries` section\nadd `libRCTContacts.a`\n\n#### Android\n1. In `android/settings.gradle`\n\n```gradle\n...\ninclude ':react-native-contacts'\nproject(':react-native-contacts').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-contacts/android')\n```\n\n3. In `android/app/build.gradle`\n\n```gradle\n...\ndependencies {\n    ...\n    implementation project(':react-native-contacts')\n}\n```\n\n4. register module (in MainApplication.java)\n\n```java\nimport com.rt2zz.reactnativecontacts.ReactNativeContacts; // <--- import\n\npublic class MainActivity extends ReactActivity {\n  ......\n\n  @Override\n  protected List<ReactPackage> getPackages() {\n    return Arrays.<ReactPackage>asList(\n            new MainReactPackage(),\n            new ReactNativeContacts()); // <------ add this\n  }\n\n  ......\n\n}\n\n```\n### Permissions\n#### iOS\n\nAdd kit specific \"permission\" keys to your Xcode `Info.plist` file, in order to make `requestPermission` work. Otherwise your app crashes when requesting the specific permission.\n\nOpen Xcode > open ios/yourApp.xcodeproj > Info.plist > Add key `Privacy - Contacts Usage Description` with your kit specific permission. The value for the key is optional in development. If you submit to the App Store the value must explain why you need this permission.\n\n<img width=\"338\" alt=\"screen shot 2016-09-21 at 13 13 21\" src=\"https://cloud.githubusercontent.com/assets/5707542/18704973/3cde3b44-7ffd-11e6-918b-63888e33f983.png\">\n\n#### Android\nAndroid requires allowing permissions with https://facebook.github.io/react-native/docs/permissionsandroid.html\nThe `READ_CONTACTS` permission is automatically added to the `AndroidManifest.xml`, so you just need request it. If your app also needs to create contacts, don't forget to add `WRITE_CONTACTS` permission to the manifest and request it at runtime.  \n\nIf you wish to support older versions of Android (API level <= 22), you may need to add `READ_PROFILE` and/or `WRITE_PROFILE` permissions as well to `AndroidManifest.xml` ([#331](https://github.com/rt2zz/react-native-contacts/issues/331)).\n\n## API\n * `getAll` (callback) - returns *all* contacts as an array of objects\n * `getAllWithoutPhotos` - same as `getAll` on Android, but on iOS it will not return uris for contact photos (because there's a significant overhead in creating the images)\n * `getPhotoForId(contactId, callback)` - returns a URI (or null) for a contacts photo\n * `addContact` (contact, callback) - adds a contact to the AddressBook.  \n * `openContactForm` (contact, callback) - create a new contact and display in contactsUI.  \n * `updateContact` (contact, callback) - where contact is an object with a valid recordID  \n * `deleteContact` (contact, callback) - where contact is an object with a valid recordID  \n * `getContactsMatchingString` (string, callback) - where string is any string to match a name (first, middle, family) to\n * `checkPermission` (callback) - checks permission to access Contacts _ios only_\n * `requestPermission` (callback) - request permission to access Contacts _ios only_\n\nCallbacks follow node-style:\n```sh\ncallback <Function>\n  err <Error>\n  response <Object>\n```\n\n## Example Contact Record\n```es\n{\n  recordID: '6b2237ee0df85980',\n  company: \"\",\n  emailAddresses: [{\n    label: \"work\",\n    email: \"carl-jung@example.com\",\n  }],\n  familyName: \"Jung\",\n  givenName: \"Carl\",\n  jobTitle: \"\",\n  note: 'some text',\n  urlAddresses: [{\n    label: \"home\",\n    url: \"www.jung.com\",\n  }],\n  middleName: \"\",\n  phoneNumbers: [{\n    label: \"mobile\",\n    number: \"(555) 555-5555\",\n  }],\n  hasThumbnail: true,\n  thumbnailPath: 'content://com.android.contacts/display_photo/3',\n  postalAddresses: [\n    {\n      street: '123 Fake Street',\n      city: 'Sample City',\n      state: 'CA',\n      region: 'CA',\n      postCode: '90210',\n      country: 'USA',\n      label: 'home'\n    }\n  ],\n  birthday: {\"year\": 1988, \"month\": 0, \"day\": 1 }\n}\n```\n**NOTE**\n* on Android versions below 8 the entire display name is passed in the `givenName` field. `middleName` and `familyName` will be `\"\"`.\n\n## Adding Contacts\nCurrently all fields from the contact record except for thumbnailPath are supported for writing\n```es\nvar newPerson = {\n  emailAddresses: [{\n    label: \"work\",\n    email: \"mrniet@example.com\",\n  }],\n  familyName: \"Nietzsche\",\n  givenName: \"Friedrich\",\n}\n\nContacts.addContact(newPerson, (err) => {\n  if (err) throw err;\n  // save successful\n})\n```\n\n## Open Contact Form\nCurrently all fields from the contact record except for thumbnailPath are supported for writing\n```es\nvar newPerson = {\n  emailAddresses: [{\n    label: \"work\",\n    email: \"mrniet@example.com\",\n  }],\n  familyName: \"Nietzsche\",\n  givenName: \"Friedrich\",\n}\n\nContacts.openContactForm(newPerson, (err) => {\n  if (err) throw err;\n  // form is open\n})\n```\nYou may want to edit the contact before saving it into your phone book. So using `openContactForm` allow you to prompt default phone create contacts UI and the new to-be-added contact will be display on the contacts UI view. Click save or cancel button will exit the contacts UI view.\n\n## Updating and Deleting Contacts\nExample\n```es\nContacts.getAll((err, contacts) => {\n  if (err) throw err;\n\n  // update the first record\n  let someRecord = contacts[0]\n  someRecord.emailAddresses.push({\n    label: \"junk\",\n    email: \"mrniet+junkmail@test.com\",\n  })\n  Contacts.updateContact(someRecord, (err) => {\n    if (err) throw err;\n    // record updated\n  })\n\n  //delete the second record\n  Contacts.deleteContact(contacts[1], (err, recordId) => {\n    if (err) throw err;\n    // contact deleted\n  })\n})\n```\nUpdate and delete reference contacts by their recordID (as returned by the OS in getContacts). Apple does not guarantee the recordID will not change, e.g. it may be reassigned during a phone migration. Consequently you should always grab a fresh contact list with `getContacts` before performing update and delete operations.\n\nYou can also delete a record using only it's recordID\n```es\nContacts.deleteContact({recordID: 1}, (err, recordId) => {\n  if (err) throw err;\n  // contact deleted\n})\n```\n\n## Displaying Thumbnails\n\nThe thumbnailPath is the direct URI for the temp location of the contact's cropped thumbnail image.\n\n```es\n<Image source={{uri: contact.thumbnailPath}} />\n```\n\n## Permissions Methods (optional)\n`checkPermission` (callback) - checks permission to access Contacts.  \n`requestPermission` (callback) - request permission to access Contacts.  \n\nUsage as follows:\n```es\nContacts.checkPermission((err, permission) => {\n  if (err) throw err;\n\n  // Contacts.PERMISSION_AUTHORIZED || Contacts.PERMISSION_UNDEFINED || Contacts.PERMISSION_DENIED\n  if (permission === 'undefined') {\n    Contacts.requestPermission((err, permission) => {\n      // ...\n    })\n  }\n  if (permission === 'authorized') {\n    // yay!\n  }\n  if (permission === 'denied') {\n    // x.x\n  }\n})\n```\n\nThese methods are only useful on iOS. For Android you'll have to use https://facebook.github.io/react-native/docs/permissionsandroid.html\n\nThese methods do **not** re-request permission if permission has already been granted or denied. This is a limitation in iOS, the best you can do is prompt the user with instructions for how to enable contacts from the phone settings page `Settings > [app name] > contacts`.\n\n<h2 align=\"center\">Maintainers</h2>\n\n<table>\n  <tbody>\n    <tr>\n      <td align=\"center\">\n        <a href=\"https://github.com/morenoh149\">\n          <img width=\"150\" height=\"150\" src=\"https://github.com/morenoh149.png?size=150\">\n          </br>\n          Harry Moreno\n        </a>\n      </td>\n    </tr>\n  <tbody>\n</table>\n\n## LICENSE\n\n[MIT License](LICENSE)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rt2zz/react-native-contacts.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "types": "index.d.ts",
+  "version": "2.2.5"
+}
